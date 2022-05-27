@@ -1,0 +1,3 @@
+fhis is my first code in git
+:wq
+
